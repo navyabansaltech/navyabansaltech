@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @navyabansaltech
 - 👀 I’m interested in programming and music,these two things help me through it all
 - 🌱 I’m currently learning programming with javascript and python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on im still learning so i can't collaborate but once im done learning,i will
 - 📫 How to reach me @_persona_favorita is my instagram
 
 <!---
