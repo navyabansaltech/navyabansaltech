@@ -1,7 +1,7 @@
 - 👋 Hey there, I’m Navya Bansal
 - 👀 I’m interested in programming, medication and aviation, these three bring the best out of me!!!
 - 🌱 I’m currently a Javascript Developer
-- 📫 You can reach out to me at navyabansal1122@gmail.com or on instagram @navyaabansal.tech
+- 📫 You can reach out to me at navyabansaltech@gmail.com or on instagram @navyaabansal.tech
 - i'm currently learning React.js and Node.js
 
 <!---
